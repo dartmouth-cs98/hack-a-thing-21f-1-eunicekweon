@@ -6,8 +6,6 @@ import 'package:flutter_application_1/src/widgets/title_text.dart';
 import 'package:flutter_application_1/src/widgets/extension.dart';
 
 class ProductIcon extends StatelessWidget {
-  // final String imagePath;
-  // final String text;
   final ValueChanged<Category> onSelected;
   final Category model;
   ProductIcon({Key key, this.model, this.onSelected}) : super(key: key);
