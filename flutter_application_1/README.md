@@ -10,8 +10,6 @@ After building this with a tutorial, I attempted to clone a already existing mob
 Screenshots
 
 [![Screen-Shot-2021-09-22-at-1-33-16-PM.png](https://i.postimg.cc/T2Zv0GTB/Screen-Shot-2021-09-22-at-1-33-16-PM.png)](https://postimg.cc/7bMRPFGN)
-[![Screen-Shot-2021-09-22-at-1-33-42-PM.png](https://i.postimg.cc/k55H9hnx/Screen-Shot-2021-09-22-at-1-33-42-PM.png)](https://postimg.cc/21PG7GL6)
-
 [![Screen-Shot-2021-09-22-at-1-34-16-PM.png](https://i.postimg.cc/Qd84knKR/Screen-Shot-2021-09-22-at-1-34-16-PM.png)](https://postimg.cc/HVN9Tz22)
 [![Screen-Shot-2021-09-22-at-1-34-27-PM.png](https://i.postimg.cc/8zz4rJqG/Screen-Shot-2021-09-22-at-1-34-27-PM.png)](https://postimg.cc/Vd2nx6fZ)
 
@@ -36,14 +34,14 @@ What didn't Work: The Flutter project that I attempted to clone did not succeed.
 ## Acknowledgments
 
 First Start/Attempt of Flutter Project:
-https://flutter.dev/docs/get-started/codelab
-https://flutter.dev/docs/get-started/flutter-for/android-devs
-https://flutter.dev/docs/development/ui/widgets-intro
-https://flutter.dev/docs/development/ui/navigation
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/get-started/flutter-for/android-devs
+- https://flutter.dev/docs/development/ui/widgets-intro
+- https://flutter.dev/docs/development/ui/navigation
 
 What I tried to Remake/Clone:
-https://flutterappworld.com/e-commerce-app-built-in-flutter/
+- https://www.theinsaneapp.com/2021/06/flutter-projects-with-source-code.html
 
 Other Resources and Tutorials I Used:
-https://stackoverflow.com/questions/49280884/how-to-set-up-devices-for-visual-studio-code-for-a-flutter-emulator
-https://api.flutter.dev/flutter/widgets/Stack/overflow.html
+- https://stackoverflow.com/questions/49280884/how-to-set-up-devices-for-visual-studio-code-for-a-flutter-emulator
+- https://api.flutter.dev/flutter/widgets/Stack/overflow.html
