@@ -7,7 +7,8 @@ I have had some experience with React Native, and with inspiration from one of t
 I first built an empty and simplistic Flutter project.
 After building this with a tutorial, I attempted to clone a already existing mobile application to see if I could do try the same.
 
-Include some screenshots.
+Screenshots
+
 [![Screen-Shot-2021-09-22-at-1-33-16-PM.png](https://i.postimg.cc/T2Zv0GTB/Screen-Shot-2021-09-22-at-1-33-16-PM.png)](https://postimg.cc/7bMRPFGN)
 [![Screen-Shot-2021-09-22-at-1-33-42-PM.png](https://i.postimg.cc/k55H9hnx/Screen-Shot-2021-09-22-at-1-33-42-PM.png)](https://postimg.cc/21PG7GL6)
 
