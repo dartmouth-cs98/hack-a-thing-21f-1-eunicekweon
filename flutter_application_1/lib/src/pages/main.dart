@@ -40,7 +40,6 @@ class _MainPageState extends State<MainPage> {
                       spreadRadius: 10),
                 ],
               ),
-              child: Image.asset("assets/user.png"),
             ),
           ).ripple(() {}, borderRadius: BorderRadius.all(Radius.circular(13)))
         ],
