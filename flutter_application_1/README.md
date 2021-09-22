@@ -27,7 +27,7 @@ What Worked: In general, I learned that I was able to develop a basic Flutter pr
 
 What didn't Work: The Flutter project that I attempted to clone did not succeed. I think this was because I did not have enough time to familiarize myself with the hierarchy and widget implementation that comes with the Dart language. It was truly a rough start to clone this, but I did learn a lot from experimenting. It was cool to see a few of the components seen in the application to come together, but for sure, I think I would need a lot more time to implement all its features.
 
-Outcome: I was able to succeed in two working pages, but testing output with a android emulator took much time for output testing and debugging.
+Outcome: I was able to succeed in two working pages, but testing output with a android emulator took much time for output testing and debugging. I have had difficulty and faced error in extensions for widgets.
 
 ## Authors
 
