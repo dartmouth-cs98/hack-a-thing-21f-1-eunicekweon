@@ -7,6 +7,12 @@ I have had some experience with React Native, and with inspiration from one of t
 I first built an empty and simplistic Flutter project.
 After building this with a tutorial, I attempted to clone a already existing mobile application to see if I could do try the same.
 
+----------------------------------------------------
+
+Hack-A-Thing-2
+Added and correctly wired product-detail page
+Skipped adding user image and more products on the page.
+
 Screenshots
 
 [![Screen-Shot-2021-09-22-at-1-33-16-PM.png](https://i.postimg.cc/T2Zv0GTB/Screen-Shot-2021-09-22-at-1-33-16-PM.png)](https://postimg.cc/7bMRPFGN)
